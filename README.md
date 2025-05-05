@@ -42,8 +42,8 @@ Sou estudante da **Escola Estadual Governador Milton Campos**, onde curso o téc
 
 <h3 class="center">📊 GitHub Stats</h3>
 <p class="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielnery03&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnery03&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=danielnery03&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielnery03&layout=compact&theme=tokyonight" />
 </p>
 
 <hr>
