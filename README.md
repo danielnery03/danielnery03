@@ -1,28 +1,4 @@
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Perfil - Daniel Nery</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      padding: 20px;
-    }
-    .badge {
-      margin-right: 8px;
-      margin-top: 5px;
-    }
-    .center {
-      text-align: center;
-    }
-    .tech-icons img {
-      height: 40px;
-      margin: 5px;
-    }
-  </style>
-</head>
-<body>
+
 
 <h2>👋 Olá, eu sou Daniel Nery</h2>
 <p>Sou estudante da Escola Estadual Governador Milton Campos, faço curso técnico em desenvolvimento de sistemas .</p>
